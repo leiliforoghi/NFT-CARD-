@@ -191,6 +191,8 @@ figure.image-section figcaption {
 .attribution {
     color: var(--White);
     padding: 20px;
+    font-size: 11px;
+    text-align: center;
 }
 
 /*Attribute Section Link Style*/
